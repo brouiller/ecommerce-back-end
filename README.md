@@ -25,8 +25,6 @@ Copy files, create database using schema.sql, from root directory, run the follo
 
 Used to create, read, update, and delete objects in an ecommerce website
 
-<iframe src="https://drive.google.com/file/d/1RMhnMw1ARwXBbEvO6OeDKDxaUvDevLpo/preview" width="640" height="480"></iframe>
-
 <a href='https://watch.screencastify.com/v/cCXqV3GTXtnoUKLQUSpn'>Click here to watch a video of the application in action!</a>
 
 ## Contributing
